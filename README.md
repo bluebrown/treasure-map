@@ -1,3 +1,6 @@
+> [!WARNING]  
+> Code has been migrated to https://github.com/bluebrown/go-template-cli/tree/main/textfunc
+
 # Treasure Map
 
 A collection of go template functions. Some functions are inspired by [helm](https://helm.sh/), i.e. include and tpl.
